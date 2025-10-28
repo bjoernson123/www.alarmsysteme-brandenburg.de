@@ -34,7 +34,7 @@ export default function UeberUnsPage() {
                 Sicherheit ist unser Handwerk
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Seit über 15 Jahren sind wir Ihr regionaler Spezialist für Sicherheitstechnik in Brandenburg an der
+                Seit über 10 Jahren sind wir Ihr regionaler Spezialist für Sicherheitstechnik in Brandenburg an der
                 Havel und Umgebung. Unser erfahrenes Team plant, installiert und wartet Ihre Sicherheitsanlagen mit
                 höchster Professionalität und Zuverlässigkeit.
               </p>
@@ -50,7 +50,7 @@ export default function UeberUnsPage() {
                 </div>
                 <div className="flex items-center">
                   <CheckCircle className="h-5 w-5 text-green-600 mr-3" />
-                  <span>Über 15 Jahre Branchenerfahrung</span>
+                  <span>Über 10 Jahre Branchenerfahrung</span>
                 </div>
                 <div className="flex items-center">
                   <CheckCircle className="h-5 w-5 text-green-600 mr-3" />
@@ -64,8 +64,8 @@ export default function UeberUnsPage() {
             </div>
             <div>
               <Image
-                src="/security-technician-installing-alarm-system.jpg"
-                alt="Professionelle Installation von Sicherheitstechnik"
+                src="/professional-security-technician-installing-alarm-system.jpg"
+                alt="Professioneller Sicherheitstechniker bei der Installation"
                 width={600}
                 height={500}
                 className="w-full h-auto rounded-lg shadow-lg"

@@ -61,7 +61,7 @@ export default function HomePage() {
               <div className="bg-gray-100 p-4 rounded-full mb-4">
                 <CheckCircle className="h-8 w-8 text-gray-700" />
               </div>
-              <h3 className="text-xl font-semibold mb-2">15+ Jahre Erfahrung</h3>
+              <h3 className="text-xl font-semibold mb-2">10+ Jahre Erfahrung</h3>
               <p className="text-gray-600">Langjährige Expertise in der Sicherheitstechnik</p>
             </div>
             <div className="flex flex-col items-center">
